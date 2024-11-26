@@ -1,10 +1,11 @@
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.*;
 
 public class Dados {
     private List<Integer> dados;
-
+//aca empieza el programa
     public Dados(int a, int b, int c, int d, int e, int f) {
         this.dados.add(a);
         this.dados.add(b);
@@ -33,4 +34,5 @@ public class Dados {
             System.out.print(dados.get(i));
         }
     }
+
 }
