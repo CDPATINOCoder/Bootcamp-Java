@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Generala
 {
+    //agregando un comentario para la rama comentario-generala
     public static void main(String[] args)
     {
         Dados dados = new Dados();
