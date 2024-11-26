@@ -2,6 +2,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.*;
+//codigo codigooo codigoooooo codigo
 
 public class Dados {
     private List<Integer> dados;
